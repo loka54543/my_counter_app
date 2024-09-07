@@ -3,8 +3,8 @@
 ## Tasks To Do
 
 - Please add the "decrement" function into the Motoko code and the frontend code to allow click the `Decrement` button to decrease the counter.
-- My ICP Account Principal ID: [                                       ]
-- My ICP Ledger Account ID: [                                       ]
+- My ICP Account Principal ID: [  556mh-pmvja-7hcbt-dipcm-6hlte-k4et3-xpbmu-476zf-gx2wb-ymyno-4qe                                     ]
+- My ICP Ledger Account ID: [ e98fde6fd4403eaaf02b921d59f92c4868c15618dd2cc49390e440abe3b538c0                                      ]
 
 ## Get Started
 
